@@ -1,9 +1,7 @@
 div{
-background-color: rgb(5, 229, 225);width: min-content
+background-color: rgb(5, 229, 225);width:min-content;
 color: rgb(237, 1, 1);
 font-family: Arial, sans-serif;
 padding: 10px;
-margin: 19px;
-
-
+border-radius: 5px;
 }
